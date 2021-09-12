@@ -5,4 +5,4 @@
 
 ### Definition of Measure Set
 
-A set
+A set $SIGMA$
